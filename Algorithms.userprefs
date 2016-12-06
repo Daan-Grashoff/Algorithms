@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{E5DB4E90-F868-4665-98DA-411F010979AE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithms/Program.cs">
+    <Files>
+      <File FileName="Algorithms/Program.cs" Line="59" Column="18" />
+      <File FileName="Algorithms/Tree.cs" Line="9" Column="22" />
+      <File FileName="Algorithms/Sort.cs" Line="69" Column="26" />
+      <File FileName="Algorithms/Search.cs" Line="50" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Algorithms PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Mac/Projects/Algorithms/Algorithms/Program.cs" relfile="Algorithms/Program.cs" line="36" column="1" />
+      <Breakpoint file="/Users/Mac/Projects/Algorithms/Algorithms/Program.cs" relfile="Algorithms/Program.cs" line="27" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
